@@ -1,0 +1,6 @@
+name "day1"
+description "Solution for Advent Of Code day 1"
+authors "Dan Printzell"
+copyright "Copyright © 2017, Dan Printzell"
+license "MPLv2"
+targetPath "../bin/"
